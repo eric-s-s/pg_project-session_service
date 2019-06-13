@@ -1,0 +1,653 @@
+{
+  "static_nouns": [],
+  "verb_groups": [
+    {
+      "verb": "bite",
+      "irregular_past": "bit",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "bore",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "break",
+      "irregular_past": "broke",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "bring",
+      "irregular_past": "brought",
+      "particle": "",
+      "preposition": "",
+      "objects": 2
+    },
+    {
+      "verb": "bring",
+      "irregular_past": "brought",
+      "particle": "",
+      "preposition": "to",
+      "objects": 2
+    },
+    {
+      "verb": "build",
+      "irregular_past": "built",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "buy",
+      "irregular_past": "bought",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "catch",
+      "irregular_past": "caught",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "clean",
+      "irregular_past": "",
+      "particle": "up",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "cook",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "cut",
+      "irregular_past": "cut",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "cut",
+      "irregular_past": "cut",
+      "particle": "",
+      "preposition": "with",
+      "objects": 2
+    },
+    {
+      "verb": "disgust",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "draw",
+      "irregular_past": "drew",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "eat",
+      "irregular_past": "ate",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "fall",
+      "irregular_past": "fell",
+      "particle": "",
+      "preposition": "on",
+      "objects": 1
+    },
+    {
+      "verb": "feed",
+      "irregular_past": "fed",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "fight",
+      "irregular_past": "fought",
+      "particle": "",
+      "preposition": "with",
+      "objects": 1
+    },
+    {
+      "verb": "find",
+      "irregular_past": "found",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "freeze",
+      "irregular_past": "froze",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "give",
+      "irregular_past": "gave",
+      "particle": "",
+      "preposition": "",
+      "objects": 2
+    },
+    {
+      "verb": "grab",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "hate",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "have",
+      "irregular_past": "had",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "hit",
+      "irregular_past": "hit",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "hit",
+      "irregular_past": "hit",
+      "particle": "",
+      "preposition": "with",
+      "objects": 2
+    },
+    {
+      "verb": "hold",
+      "irregular_past": "held",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "interest",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "jump",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "on",
+      "objects": 1
+    },
+    {
+      "verb": "kick",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "kill",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "kiss",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "like",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "love",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "make",
+      "irregular_past": "made",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "make",
+      "irregular_past": "made",
+      "particle": "",
+      "preposition": "out of",
+      "objects": 2
+    },
+    {
+      "verb": "marry",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "own",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "pick",
+      "irregular_past": "",
+      "particle": "up",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "put",
+      "irregular_past": "put",
+      "particle": "away",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "play",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "with",
+      "objects": 1
+    },
+    {
+      "verb": "pull",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "push",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "ride",
+      "irregular_past": "rode",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "see",
+      "irregular_past": "saw",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "sell",
+      "irregular_past": "sold",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "sell",
+      "irregular_past": "sold",
+      "particle": "",
+      "preposition": "to",
+      "objects": 2
+    },
+    {
+      "verb": "shake",
+      "irregular_past": "shook",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "show",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 2
+    },
+    {
+      "verb": "sleep",
+      "irregular_past": "slept",
+      "particle": "",
+      "preposition": "on",
+      "objects": 1
+    },
+    {
+      "verb": "smell",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "steal",
+      "irregular_past": "stole",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "surprise",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "take",
+      "irregular_past": "took",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "teach",
+      "irregular_past": "taught",
+      "particle": "",
+      "preposition": "about",
+      "objects": 2
+    },
+    {
+      "verb": "throw",
+      "irregular_past": "",
+      "particle": "threw",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "throw",
+      "irregular_past": "threw",
+      "particle": "",
+      "preposition": "at",
+      "objects": 2
+    },
+    {
+      "verb": "use",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "wash",
+      "irregular_past": "",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    },
+    {
+      "verb": "wear",
+      "irregular_past": "wore",
+      "particle": "",
+      "preposition": "",
+      "objects": 1
+    }
+  ],
+  "countable_nouns": [
+    {
+      "noun": "ant",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "apple",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "baby",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "banana",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "bicycle",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "book",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "box",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "bus",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "car",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "child",
+      "irregular_plural": "children"
+    },
+    {
+      "noun": "cow",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "eagle",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "egg",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "elephant",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "finger",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "fire fighter",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "fish",
+      "irregular_plural": "fish"
+    },
+    {
+      "noun": "house",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "husband",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "knife",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "leaf",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "nose",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "octopus",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "orange",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "pen",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "person",
+      "irregular_plural": "people"
+    },
+    {
+      "noun": "pineapple",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "pony",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "school",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "shark",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "sheep",
+      "irregular_plural": "sheep"
+    },
+    {
+      "noun": "table",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "teacher",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "tiger",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "tree",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "uncle",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "watch",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "wife",
+      "irregular_plural": ""
+    },
+    {
+      "noun": "witch",
+      "irregular_plural": ""
+    }
+  ],
+  "uncountable_nouns": [
+    {
+      "noun": "apple juice",
+      "definite ": "false"
+    },
+    {
+      "noun": "cake",
+      "definite ": "true"
+    },
+    {
+      "noun": "gold",
+      "definite ": "false"
+    },
+    {
+      "noun": "hair",
+      "definite ": "false"
+    },
+    {
+      "noun": "homework",
+      "definite ": "true"
+    },
+    {
+      "noun": "ice cream",
+      "definite ": "true"
+    },
+    {
+      "noun": "lightning",
+      "definite ": "false"
+    },
+    {
+      "noun": "milk",
+      "definite ": "false"
+    },
+    {
+      "noun": "money",
+      "definite ": "true"
+    },
+    {
+      "noun": "pizza",
+      "definite ": "false"
+    },
+    {
+      "noun": "poop",
+      "definite ": "true"
+    },
+    {
+      "noun": "rice",
+      "definite ": "false"
+    },
+    {
+      "noun": "sand",
+      "definite ": "false"
+    },
+    {
+      "noun": "stinky tofu",
+      "definite ": "false"
+    },
+    {
+      "noun": "tea",
+      "definite ": "true"
+    },
+    {
+      "noun": "thunder",
+      "definite ": "false"
+    },
+    {
+      "noun": "water",
+      "definite ": "true"
+    }
+  ]
+}

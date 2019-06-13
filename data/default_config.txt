@@ -1,0 +1,18 @@
+error_probability = 0.2
+
+noun_errors = true
+pronoun_errors = false
+verb_errors = true
+punctuation_errors = true
+is_do_errors = false
+preposition_transpose_errors = false
+
+tense = simple_present
+probability_plural_noun = 0.3
+probability_negative_verb = 0.3
+probability_pronoun = 0.2
+
+paragraph_type = chain
+subject_pool = 5
+paragraph_size = 15
+
