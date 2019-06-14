@@ -1,0 +1,5 @@
+git+https://github.com/eric-s-s/bind_json_error_handlers
+
+Flask==1.0.3
+requests==2.22.0
+

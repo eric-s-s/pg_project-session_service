@@ -1,5 +1,7 @@
-front end
-=========
+session service
+===============
 
-currently just generates the jsons very lazily will be a react
-front end 
+a microservice for handling a session.
+
+currently dead simple.
+
